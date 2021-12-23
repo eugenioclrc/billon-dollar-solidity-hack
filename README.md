@@ -29,7 +29,7 @@
 <br />
 <div align="center">
 <!--
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/eugenioclrc/billon-dollar-solidity-hack">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 -->
@@ -39,14 +39,14 @@
     Replaying and revisiting blockchain millonairs hacks!
     <br />
     <!--
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/eugenioclrc/billon-dollar-solidity-hack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/eugenioclrc/billon-dollar-solidity-hack">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/eugenioclrc/billon-dollar-solidity-hack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/eugenioclrc/billon-dollar-solidity-hack/issues">Request Feature</a>
     -->
   </p>
 </div>
@@ -82,13 +82,13 @@ WORK IN PROGRESS
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/blob/master/LICENSE.txt
 [product-screenshot]: logo.png
