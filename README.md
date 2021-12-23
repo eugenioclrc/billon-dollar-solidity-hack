@@ -81,14 +81,14 @@ WORK IN PROGRESS
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/eugenioclrc/billon-dollar-solidity-hack.svg?style=for-the-badge
 [contributors-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/eugenioclrc/billon-dollar-solidity-hack.svg?style=for-the-badge
 [forks-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/eugenioclrc/billon-dollar-solidity-hack.svg?style=for-the-badge
 [stars-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/eugenioclrc/billon-dollar-solidity-hack.svg?style=for-the-badge
 [issues-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/eugenioclrc/billon-dollar-solidity-hack.svg?style=for-the-badge
 [license-url]: https://github.com/eugenioclrc/billon-dollar-solidity-hack/blob/master/LICENSE.txt
 [product-screenshot]: logo.png
